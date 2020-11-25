@@ -1,2 +1,2 @@
 # GOTmon2
-Projet info ECEmon
+Projet info ECEmon 2020
